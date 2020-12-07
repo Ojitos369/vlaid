@@ -1,0 +1,7 @@
+Elige en que lenguaje vas a codificar:
+    1.- C++ --En desarrollo
+    2.- Python --Proximamente
+    3.- Javascript --Proximamente
+    4.- Html --Proximamente
+    5.- Css --Proximamente
+    6.- Cancelar

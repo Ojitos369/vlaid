@@ -1,0 +1,7 @@
+La primera vez que lo utilices
+Abre CMD como Administador
+En la carpeta donde esta main.py presiona alt+d  y despues   ctrl+c
+Escribe en CMD: cd (ctrl+v)
+Escribe en CMD: python actualizar.py
+Deja correr el programa
+Una vez terminado el proceso de instalación escribe: python main.py
